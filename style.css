@@ -1,0 +1,286 @@
+.c1 {
+  width:150px;
+  height: 150px;
+  background-color:blue;
+  margin: 5% circle;
+  border-radius: 75%;
+  display: inline;
+  font-size: 90px;
+}
+.c2 {
+  width:150px;
+  height: 150px;
+  background-color:rgb(204, 100, 9);
+  margin: 5% circle;
+  border-radius: 75%;
+  display: inline;
+  font-size: 90px;
+}
+.c3 {
+  width:150px;
+  height: 150px;
+  background-color:rgb(203, 60, 120);
+  margin: 30% circle;
+  border-radius: 75%;
+  display: inline;
+  font-size: 90px;
+}
+  .c4 {
+    width:150px;
+    height: 150px;
+    background-color: yellow;
+    margin: 5% auto;
+    border-radius: 75%;
+    display: inline;
+    font-size: 90px;
+  }
+  .c5 {
+    width:150px;
+    height: 150px;
+    background-color:rgb(0, 255, 38);
+    margin: 5% auto;
+    border-radius: 75%;
+    display: inline;
+    font-size: 90px;
+  }
+  .c1, .c2, .c3, .c4, .c5 {
+    animation:abcd 15s infinite;
+    border: 5px solid black;
+  }
+
+  @keyframes abcd{
+    0%{margin-left: 50px}
+    10%{margin-left:50px}
+    20%{margin-right:100px}
+    30%{margin-right:100px}
+    40%{margin-left:100px}
+    50%{margin-left:100px}
+    60%{margin-right:100px}
+    70%{margin-right:100px}
+    80%{margin-left:100px}
+    90%{margin-left:100px}
+    100%{margin-right:50px}
+  }
+  .b1, .b2, .b3, .b4, .b5 {
+    display: inline;
+    top: 50% transform: translate (-50%, -50%);
+    /* left: 50%; */
+    width: 500px;
+    height: 300px;
+    border: 5px solid transparent;
+    border-radius: 50%;
+    /* Background-color: white; */
+    /* position: relative; */
+    font-size: 80px;
+    box-shadow: 0 0 0 5px black;
+    letter-spacing: 30px; word-spacing: 10px;line-height: -10px;
+  }
+.b1 {
+  Background-color: green;
+}
+.b2 {
+  Background-color: orange;
+}
+.b3 {
+  background-color: blue;
+}
+.b4 {
+  Background-color: yellow;
+}
+.b5 {
+  Background-color: red;
+}
+
+  #grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+    outline: 6.5px solid red;
+  }
+  
+  .grid-item {
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    outline: 1.5px solid rgb(21, 0, 255);
+    display: relative;
+    font-size: 40px;
+    font: bold;
+    background-color: white;
+  }
+  #ballsGrid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 250px;
+    height: 1500px;
+    outline: 6.5px solid black;
+    position:relative;
+  }
+  .numbers-called {
+    float: right;
+    width: 50%;
+    height: 100px;
+    overflow: hidden;
+    outline: 2px solid rgb(21, 0, 255);
+    display: relative;
+    font-size: 40px;
+    font: bold;
+    background-color:white;
+  }
+
+  #grid2{
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+    outline: 6.5px solid red;
+    position: absolute;
+  }
+  
+  .grid-two {
+    width: 100px;
+    height: 100px;
+    /* overflow: hidden; */
+    outline: 2px solid rgb(21, 0, 255);
+    /* display: relative; */
+    font-size: 40px;
+    font: bold;
+    background-color:white;
+  }
+  body {
+  background-color: rgb(118, 86, 199);
+}
+#parent {position: inline;}
+.imgMain{
+  float:left;
+width: 50%;
+height: 1700px;
+}
+  #grid {
+    position: absolute;
+    /* left: 200px; */
+    top: 1000px;
+  }
+  .circle2 {
+    position: absolute;
+    /* margin: 10px; */
+  }
+  .button:focus{
+    color:rgb(197, 10, 153);
+  }
+  .button1 {
+    font-family: 'Roboto Condensed', sans-serif;
+    outline: 2px solid black;
+    border-radius: 75%;
+    background-color: white;
+    font-size: 50px;
+    top: 500px;
+    
+}
+.button2 {
+  font-family: 'Roboto Condensed', sans-serif;
+  outline: 2px solid black;
+  border-radius: 75%;
+  background-color: white;
+  font-size: 50px;
+}
+div {
+  font-size: 45px;
+}
+/* #Circle{position: relative;  */
+  /* text:grow;} */
+/* .imgBanner {
+  width: 100%;
+  margin:auto 0; */
+  
+header {
+  background-color: black;
+  width: 100%;
+  height: 120px;
+  position:fixed;
+  top: 0;
+  left:0;
+}
+body {
+  position: relative;
+  top: 250px;
+background-color: rgb(111, 62, 235);
+}
+.buttons {
+  word-spacing: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .block {
+  position: relative;
+  margin: 10% auto 0;
+  width: 50%;
+  height: 400px;
+  background: linear-gradient(odeg , black, rgb(44, ))
+}
+.glow::before, .glow::after {
+  content ";
+  position: absolute;
+  left: -2px;
+  top: -2px;
+  background: linear-gradient(45deg, yellow, orange, green, blue, red, purple);
+  background-size: 400%;
+  width: calc(100% + 5px);
+  height: calc(100% + 5px);
+  z-index: -1;
+  animation: animate 20s linear infinite;
+}
+@keyframes animate {
+  0%{
+    background-position: 0 0;
+  }
+  50%{
+    background-position: 400% 0;
+  }
+  100%{
+    background-position: 0 0;
+  }
+}
+.glow::after{
+  filter: blur(50px); */
+/* } */
+/* .imgMain { */
+  /* display: block;
+  margin-right: auto;
+margin-left: auto; */
+/* .floatRightClear{float:right;clear:right;margin-left:20px} */
+/* float:right;clear:right;margin-left:20px;
+width: 800px;
+height: 1900px; */
+/* } */
