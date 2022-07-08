@@ -1,0 +1,23 @@
+.screen {
+  display: block;
+}
+.canvas {
+  display: none;
+}
+body {
+  background-color: blueviolet;
+  background-image: cover;
+  position: relative;
+}
+.imgBack {
+  position: relative;
+
+}
+/* .button {
+  font-family: 'Roboto Condensed', sans-serif;
+  outline: 2px solid black;
+  border-radius: 50%;
+  background-color: white;
+  font-size: 50px;
+} */
+

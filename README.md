@@ -6,16 +6,27 @@ Date: 7/3/2022
 By:Latifah Hutchings 
 
 ![Image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.europeanbusinessreview.com%2Fwp-content%2Fuploads%2F2020%2F01%2Fbingo-web-2.jpg&f=1&nofb=1)
+In this project I will be creating a Bingo Game! This game will be fun interactive for users to experience their favorite childhood game Bingo. This game will not alter change any game rules from the original content creators. Not changing any of the game rules will allow the game to be user friendly and easily interactive to play. Bingo has many different versions. In my interactive game, we will reference the American version of the game. Bingo is fun, because Bingo is a betting game a game that will test your Chance. Bingo is always fun because the game is designed for it to be random. Typically, in a game of Bingo is played in person. The person that orchestrates the game typically draws a number and the players match the number on their cards to the random ball selection that gets pulled by the individual orchestrating the game. Since there is typically a person that is orchestrating the game pulling the random ball selection, they are the person that operates the device. No devices can be used for an online interactive game. So, this game will be created where the computer is the device pulling the random numbers, and the computer, phone or tablet to access the internet is the only device needed for the players can mark off their cards if their number is drawn.  
 
-   In this project I will be creating a Bingo Game! This game will be fun interactive for users to experience their favorite childhood game Bingo. This game will not alter change any game rules from the original content creators. Not changing any of the game rules will allow the game to be user friendly and easily interactive to play. Bingo has many different versions. In my interactive game, we will reference the American version of the game. Bingo is fun, because Bingo is a betting game a game that will test your Chance. Bingo is always fun because the game is designed for it to be random. Typically in a game of Bingo is played in person. The person that orchastrates the game typically draws a number and the players match the number on their cards to the random ball selection that gets pulled by the individual orchstrating the game. Since their is typically a person that is orchstrating the game pulling the random ball selection they are the person that operates the device. No devices can be used for an online interactive game. So this game will be created where the computer is the device pulling the random numbers, and the computer, phome or tablet to access the internet is the only device needed for the players can mark off their cards if their number is drawn. 
+ 
+ 
 
- In order to create an interactive game that is easily accesible to online users we first have to think about the |Game Rules| and how the game is played. Simply following basic rules and guidelines can help create the game easier and faster. Not alterating and changing the rules will help the game be created easiear and faster. 
+In order to create an interactive game that is easily accessible to online users we first have to think about the |Game Rules| and how the game is played. Simply following basic rules and guidelines can help create the game easier and faster. Not alternating and changing the rules will help the game be created easier and faster.  
 
- Since Bingo is not a game of skill(a game that is designed by your mental, and/or phyiscal) but more designed to be a game of chance. The outcome will always be what the computer generates. This gived every user a chance to eventually win. This is what makes Bingo fun. Every player has a chance to win. A player may win 1...2...3..or even 4 games in a row but game of chance can always create losers. There is no degree of skill to play this game. This is what creates the excitement to play the game. 
+ 
+ 
 
- Secondly, we think mainly of what do we need to play the game of Bingo. Many games have equipment to play the game rather its cards, a board, a tool ect. Luckily online we only have to create a structure of the game so users can utilize the online features of the game. Thats the benefit of creating games online, users dont have to go out to puchase any additional devices to pay the game. Now many online games do have additonal features, where Users can purchase additional features to enhance their game experience. But creating an online Bingo Game can be done for free. Since this is my first creation of a big game we will keep it simple for Users. Good thing is we can always go back and do upgrades if we ever want to offer our games to companies, online active play, ect. 
+Since Bingo is not a game of skill (a game that is designed by your mental, and/or physical) but more designed to be a game of chance. The outcome will always be what the computer generates. This gives every user a chance to eventually win. This is what makes Bingo fun. Every player has a chance to win. A player may win 1...2...3...or even 4 games in a row but game of chance can always create losers. There is no degree of skill to play this game. This is what creates the excitement to play the game.  
 
- So lets think of what do we need to build our structure of the game. I believe we mentioned first step is to review the game rules. So lets take a look on How to Play BINGO, so we can start building our online game. Since our game is online and we agreed that we will not offer additinal purchase features we will include all devices for the user for **FREE!** So lets focus on the rules of the **Game.** 
+ 
+ 
+
+Secondly, we think mainly of what do we need to play the game of Bingo. Many games have equipment to play the game rather its cards, a board, a tool etc. Luckily online we only have to create a structure of the game so users can utilize the online features of the game. Thats the benefit of creating games online, users don't have to go out to purchase any additional devices to pay the game. Now many online games do have additional features, where Users can purchase additional features to enhance their game experience. But creating an online Bingo Game can be done for free. Since this is my first creation of a big game, we will keep it simple for Users. Good thing is we can always go back and do upgrades if we ever want to offer our games to companies, online active play, etc.  
+
+ 
+ 
+
+So, let's think of what do we need to build our structure of the game. I believe we mentioned first step is to review the game rules. So, let's take a look on How to Play BINGO, so we can start building our online game. Since our game is online and we agreed that we will not offer additional purchase features we will include all devices for the user for **FREE!** So let's focus on the rules of the **Game.**  
 
  ![Image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipground.com%2Fimages%2Fgame-rules-clipart-14.jpg&f=1&nofb=1)
 
@@ -80,13 +91,6 @@ By:Latifah Hutchings
 Choose Design huddle for current game plan. Viewable to Public! 
 
 https://trello.com/b/9yviI5fi/design-huddle
-
-
-
-
-
-
-
 
 
 # **Last thing Lets Play Other Online Bingo Games to See What Our Game Maybe Missing!**
